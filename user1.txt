@@ -1,1 +1,4 @@
 get user1 data and print it
+process it
+and
+submit it to database
