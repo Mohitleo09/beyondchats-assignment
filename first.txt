@@ -1,2 +1,4 @@
 hello!
 take input from user and print it
+and
+submit data to database
